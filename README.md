@@ -1,16 +1,14 @@
-### Hi there 👋
+### hello there! I am Teja Sri 👋
 
-<!--
-**pattaputejasri/pattaputejasri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently a student. 
+- 🌱 I’m currently learning java.
+- 👯 I’m looking to collaborate on GitHub and Insta
+- 🤔 I’m looking for help with Data Structures
+- 💬 Ask me about Data Science or any tech related stuff.
+- 📫 How to reach me: https://www.instagram.com/tejaxsri/
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: NASA’s internet speed is 91 GB per second.
+- 🫂 Another Fun fact: Indeed we all are aliens to other species in the galaxy.
+
