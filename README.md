@@ -1,4 +1,4 @@
-### hello there! I am Teja Sri 👋
+### Hello there! I am Teja Sri 👋
 
 
 
